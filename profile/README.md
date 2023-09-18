@@ -26,7 +26,7 @@
 <summary> Edge Computing & Computer Systems </summary>
     <ul>
     <li> Checkpoint 01 - 19/09 -> <br> 
-      Provavelmente terá a ver com o display LED.
+      Possivelmente será usado o sensor de presença. (?)
     </li>
   </ul>
 </details>
