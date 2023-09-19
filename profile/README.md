@@ -3,7 +3,7 @@
 
 <br>
 
- Para inserir uma nova entrega, basta adicionar mais uma tag  ```<li> / </li>```, pode-se usar as que já foram adicionadas como template.
+ Para inserir uma nova entrega, basta adicionar mais uma tag  ```<li> / </li>```, pode-se usar as que já foram adicionadas como template, também pode ser o usar o  ```<br>``` para quebra de linha, mantendo uma formatação organizada.
 
  <br>
 
@@ -25,9 +25,7 @@
 <details open>
 <summary> Edge Computing & Computer Systems </summary>
     <ul>
-    <li> Checkpoint 01 - 19/09 -> <br> 
-      Possivelmente será usado o sensor de presença. (?)
-    </li>
+    <li> Checkpoint 01 - 26/09 -> Elaborar sistema usando Arduíno que capture informações como luminosidade/temperatura/umidade(?). <br> Mais detalhes no <a href="https://www2.fiap.com.br/"> Portal do Aluno </a>.  </li>
   </ul>
 </details>
 
@@ -35,8 +33,7 @@
 <details open>
 <summary> Front-End Design </summary>
   <ul>
-    <li> Checkpoint 01 - 22/09 -> <br> 
-      Entrega do template feito através de Engenharia Reversa.
+    <li> Checkpoint 01 - 22/09 ->  Entrega do template feito através de Engenharia Reversa.
     </li>
   </ul>
 </details>
