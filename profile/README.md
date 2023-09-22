@@ -33,7 +33,7 @@
 <details open>
 <summary> Front-End Design </summary>
   <ul>
-    <li> Checkpoint 01 - 22/09 ->  Entrega do template feito através de Engenharia Reversa.
+    <li> ✓ Checkpoint 01 - 22/09 -> <br>   Entrega do template feito através de Engenharia Reversa.
     </li>
   </ul>
 </details>
