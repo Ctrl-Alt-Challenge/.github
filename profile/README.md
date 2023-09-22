@@ -49,8 +49,8 @@
 <details open>
 <summary> Storytelling e inspiração empreendedora  </summary>
   <ul>
-    <li> Checkpoint 01 - 21/09 -> <br> 
-      Data marcada para o Checkpoint pelo professor, provavelmente será durante a aula.
+    <li> ✓ Checkpoint 01 - 21/09 -> <br> 
+        Data marcada para o Checkpoint pelo professor, provavelmente será durante a aula.
     </li>
   </ul>
 </details>
