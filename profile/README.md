@@ -25,7 +25,7 @@
 <details open>
 <summary> Edge Computing & Computer Systems </summary>
     <ul>
-    <li> Checkpoint 01 - 26/09 -> Elaborar sistema usando Arduíno que capture informações como luminosidade/temperatura/umidade(?). <br> Mais detalhes no <a href="https://www2.fiap.com.br/"> Portal do Aluno </a>.  </li>
+    <li> ✓ Checkpoint 01 - 26/09 -> Elaborar sistema usando Arduíno que capture informações como luminosidade/temperatura/umidade(?). <br> Mais detalhes no <a href="https://www2.fiap.com.br/"> Portal do Aluno </a>.  </li>
   </ul>
 </details>
 
